@@ -223,3 +223,35 @@ ul li {
   margin-bottom: 100px;
 }
 /* ------------------------------------------section-5 end-------------------- */
+.section-6 {
+  padding: 0 2rem;
+}
+.section-6 .s6-container {
+  width: 1900px;
+  height: 500px;
+  margin: 0 auto;
+}
+.section-6 .section-6-slider {
+  width: 950px;
+  height: 500px;
+  background-color: #53354a;
+  transform: translateY(-101%) translateX(100%);
+}
+.section-6-slider {
+  padding: 115px 350px 35px 75px;
+}
+.section-6-slider h3 {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 400;
+  color: #fff;
+}
+.section-6-slider p {
+  font-size: 13px;
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 35px;
+}
+/* ------------------section-6 end------------------------- */
